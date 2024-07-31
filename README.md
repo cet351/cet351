@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+This account is used for teaching activities at the [Eastern Michigan University](https://www.emich.edu/)'s
+[GameAbove College of Engineering and Technology](https://www.emich.edu/cet/), where I have taught course
+Engineering Database Development since Winter 2021.
+
+- 🔭 I’m currently working on **Web Development for Engineering Application** for the Fall 2024 semester.
 <!--
 **cet351/cet351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
