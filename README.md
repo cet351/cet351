@@ -2,7 +2,8 @@
 
 This account is used for teaching activities at the [Eastern Michigan University](https://www.emich.edu/)'s
 [GameAbove College of Engineering and Technology](https://www.emich.edu/cet/), where I have taught course
-Engineering Database Development since Winter 2021.
+[Engineering Database Development](https://docs.google.com/document/d/1d4WfuiBA2s-sH8cTmy-pNF0oihF3uMN5aRHR0811-Go/)
+since Winter 2021.
 
 - 🔭 I’m currently working on **Web Development for Engineering Application** for the Fall 2024 semester.
 <!--
